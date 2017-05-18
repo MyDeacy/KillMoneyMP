@@ -1,2 +1,7 @@
 # KillMoneyMP
-プレイヤーを倒してお金をGET!! (MoneyPlus用)
+
+  
+## "このプラグインはMoneyPlusAPIがないと動作しません。"
+  
+  
+  プレイヤーを殺すとconfigで指定した額のお金を増やします。
